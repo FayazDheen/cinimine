@@ -23,10 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 - View list of Upcoming movies
 - Search through existing movies
 
-<img src="https://user-images.githubusercontent.com/40388963/122554189-49de4380-d056-11eb-9d2c-abdd64d64cd9.JPG" alt="alt text" width="100" height="120">
+<img src="https://user-images.githubusercontent.com/40388963/122554189-49de4380-d056-11eb-9d2c-abdd64d64cd9.JPG" alt="alt text" width="200" height="300">
 
-#### ![IMG_20210618_165548](https://user-images.githubusercontent.com/40388963/122554189-49de4380-d056-11eb-9d2c-abdd64d64cd9.JPG | width=100)
+<img src="https://user-images.githubusercontent.com/40388963/122554189-49de4380-d056-11eb-9d2c-abdd64d64cd9.JPG" alt="alt text" width="200" height="300">
 
-#### ![IMG_20210618_165558](https://user-images.githubusercontent.com/40388963/122554194-4ba80700-d056-11eb-9f26-35bcc14ef852.JPG | width=100)
-
-#### ![IMG_20210618_165606](https://user-images.githubusercontent.com/40388963/122554197-4cd93400-d056-11eb-81c0-a9e69ba5320a.JPG | width=100)
+<img src="https://user-images.githubusercontent.com/40388963/122554197-4cd93400-d056-11eb-81c0-a9e69ba5320a.JPG" alt="alt text" width="200" height="300">
