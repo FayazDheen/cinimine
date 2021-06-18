@@ -155,7 +155,12 @@ class _HomeState extends State<Home> {
                                       image: NetworkImage(
                                         "https://www.themoviedb.org/t/p/w220_and_h330_face${movielist[index].posterPath}",
 
-                                        // scale: 10,
+                                        //   // scale: 10,
+                                      ),
+                                      errorBuilder:
+                                          (context, exception, stackTrack) =>
+                                              Icon(
+                                        Icons.error,
                                       ),
                                     ),
                                   )),
