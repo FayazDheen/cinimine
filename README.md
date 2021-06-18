@@ -1,7 +1,7 @@
 # cinemine
 
 A flutter app to check the Upcoming Movies
-
+![App Splash](https://user-images.githubusercontent.com/40388963/122553539-6ded5500-d055-11eb-83c9-54855735189a.gif)
 
 ## How to Run
 
